@@ -21,7 +21,7 @@ The 4 things in the beginning:
 3. Blueprint Programming
 Blueprints are enough to build a full game.
 
-You will learn:
+I will learn:
 
 * Movement
 * Jump
